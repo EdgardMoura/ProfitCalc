@@ -1,0 +1,7 @@
+C:\Users\edgkb\OneDrive\Udemy\CalcProfit\CalcProfit\bin\Debug\CalcProfit.exe.config
+C:\Users\edgkb\OneDrive\Udemy\CalcProfit\CalcProfit\bin\Debug\CalcProfit.exe
+C:\Users\edgkb\OneDrive\Udemy\CalcProfit\CalcProfit\bin\Debug\CalcProfit.pdb
+C:\Users\edgkb\OneDrive\Udemy\CalcProfit\CalcProfit\obj\Debug\CalcProfit.csprojAssemblyReference.cache
+C:\Users\edgkb\OneDrive\Udemy\CalcProfit\CalcProfit\obj\Debug\CalcProfit.csproj.CoreCompileInputs.cache
+C:\Users\edgkb\OneDrive\Udemy\CalcProfit\CalcProfit\obj\Debug\CalcProfit.exe
+C:\Users\edgkb\OneDrive\Udemy\CalcProfit\CalcProfit\obj\Debug\CalcProfit.pdb
